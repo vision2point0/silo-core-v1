@@ -1,0 +1,8 @@
+.idea
+.env
+node_modules
+artifacts
+cache
+contractsAddresses.txt
+migrations
+_truffle*
